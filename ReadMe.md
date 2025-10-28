@@ -7,7 +7,7 @@ Disclaimer
 ----------
 
 DO NOT USE THIS.
-This was written by me as a college student. If memory serves, it will just take commands from a network address and execute the given command. I think I tried to make it only accept localhost and 127.0.0.1 but this can probably be easily broken by someone sending packets with spoofed localhost IPs. THIS WAS THE PROCESS OF ME LEARNING. IT IS NOT GOOD NOW.
+This was written by me as a college student. If memory serves, it will just take commands from the network and execute the given command on your computer. I think I tried to make it only accept localhost and 127.0.0.1 but this can probably be easily broken by someone sending packets with spoofed localhost IPs. THIS WAS THE PROCESS OF ME LEARNING. IT IS NOT GOOD NOW.
 
 Dependencies
 ------------
